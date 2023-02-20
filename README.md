@@ -1,5 +1,5 @@
 # AlgorithmsAndDataStructures
- Projects from Algorithms And Data Structures course on IT in Gdansk University Of Technology.
+Projects from Algorithms And Data Structures course on IT in the Gdansk University Of Technology.
 
 EXPLANATIONS OF THE PROJECTS
 
